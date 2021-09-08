@@ -1,4 +1,4 @@
-### Hi there, I'm Ilia - aka [li4kata][website] 👋
+### Hi there, I'm Ilia - aka [li4kata] 👋
 
 [![Website](https://dabuttonfactory.com/button.png?t=PORTFOLIO&f=Open+Sans-Bold&ts=19&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798)](https://li4kata.github.io/Iliailiev.github.io/)
 
@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://dabuttonfactory.com/button.png?t=PORTFOLIO&f=Open+Sans-Bold&ts=19&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://dabuttonfactory.com/button.png?t=PORTFOLIO&f=Open+Sans-Bold&ts=19&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br />
 
 ### Languages and Tools:
